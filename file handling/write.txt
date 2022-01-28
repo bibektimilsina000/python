@@ -1,0 +1,10 @@
+this is new file writting by using python.
+ this is basically use to creat new file.
+ If we use this .write function it exesting
+ file contating text inside it it will erage 
+all the text and write new onethis is appending the text in existing file 
+ to append file we should open file in append formet to do
+ this we should change "w"to "a "
+this is appending the text in existing file 
+ to append file we should open file in append formet to do
+ this we should change "w"to "a " 

@@ -1,0 +1,7 @@
+i am learning file handling using pyhon so i have created this file 
+parbat 
+kushma
+baglung
+balewa
+kathmandu
+maitidevi
